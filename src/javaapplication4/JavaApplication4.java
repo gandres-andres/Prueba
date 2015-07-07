@@ -18,6 +18,7 @@ public class JavaApplication4 {
         System.out.println("hello word");
         System.out.println("naaaa");
         System.out.println("act");
+        System.out.println("otro");
     }
     
 }
